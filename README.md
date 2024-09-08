@@ -7,6 +7,7 @@ Flash ...Bootloader 0x0000 !! Restart search Wifi KWind IoT Connect ,Restart
 
 
 
+![TheTimes](https://github.com/user-attachments/assets/adf74392-5948-4763-b1f1-218cf9774111)
 
 
 ![WhatsApp Image 2024-09-06 at 20 32 12](https://github.com/user-attachments/assets/59f74300-6989-42bb-83d3-ef0f1541d279)
